@@ -1,2 +1,2 @@
 12th experiment is revert
-
+git revert is used to undoes the changes
